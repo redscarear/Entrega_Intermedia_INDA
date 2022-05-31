@@ -1,19 +1,19 @@
 # Instrucciones para ejecutar este proyecto
 
-- Clonar el proyecto y cambiar de rama
-```bash
-git clone https://github.com/coder-live-class/django-coderhouse-project.git
+- Clonar el proyecto 
+git clone https://github.com/redscarear/Entrega_Intermedia_INDA.git
 
-cd django-coderhouse-project
-
+cd Entrega_Intermedia_INDA
 
 - Ejecutar proyecto
-```bash
+
 python manage.py runserver
-```
+
+ingresar a 
+http://127.0.0.1:8000/evento_artistico/
 
 en el index hay 
-buscador, Productores, Musicos y Tecnicos
+buscador de musicos, Productores, Musicos y Tecnicos
 en el buscador se pueden buscar musicos por nombre , cuil y ambos
 en los demas botones abre un formulario para cargar un nuevo 
 Productor, o Musico o Tecnico
